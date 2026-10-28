@@ -35,3 +35,5 @@ Tipos comuns: `python`, `csv`, `json`, `txt`, `html`
 ## Etapa 4: Verificar
 
 Confirme que a assignment foi registrada corretamente: verifique se `config.json` contém a nova entrada e se todos os arquivos criados existem no disco.
+
+> 💡 Dica: Você pode usar `git status` para verificar rapidamente se todos os arquivos foram adicionados ao repositório.
